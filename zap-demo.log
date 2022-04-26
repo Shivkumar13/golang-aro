@@ -1,0 +1,3 @@
+{"level":"info","ts":1651004262.6147146,"caller":"git/logging.go:36","msg":"This is our first log message using zap!"}
+{"level":"info","ts":1651004352.6131623,"caller":"git/logging.go:36","msg":"This is our first log message using zap!"}
+{"level":"info","ts":1651004356.9078155,"caller":"git/logging.go:36","msg":"This is our first log message using zap!"}
